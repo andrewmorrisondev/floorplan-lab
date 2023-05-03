@@ -5,7 +5,6 @@ import Bedroom from './Bedroom'
 import Bath from './Bath'
 
 const Floorplan = (props) => {
-
   return (
     <>
       <Bedroom bedNum='1' />

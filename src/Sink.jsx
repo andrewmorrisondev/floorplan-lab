@@ -1,8 +1,4 @@
-import { useState } from 'react'
-import './App.css'
-
 const Sink = (props) => {
-  const [count, setCount] = useState(0)
 
   return (
     <>
